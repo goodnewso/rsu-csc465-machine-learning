@@ -1,0 +1,19 @@
+code,title,description
+COS 101,Introduction to Computing Sciences,history of computing hardware software number systems problem solving algorithms flowcharts and the internet
+COS 102,Problem Solving,algorithms flowcharts pseudocode python programming variables loops functions and debugging
+CSC 203,Discrete Structures,logic sets relations functions graphs trees counting proofs and recurrence relations
+CSC 301,Data Structures,arrays linked lists stacks queues trees graphs hashing sorting searching and algorithm analysis
+CSC 308,Operating Systems,processes threads scheduling memory management virtual memory file systems and synchronisation
+CSC 309,Artificial Intelligence,intelligent agents search heuristics knowledge representation logic expert systems and natural language processing
+CSC 322,Computer Graphics,raster graphics transformations viewing shading rendering pipelines and opengl programming
+CSC 401,Algorithms and Complexity,algorithm design divide and conquer dynamic programming greedy methods np completeness and complexity analysis
+CSC 432,Compiler Construction,lexical analysis parsing grammars syntax trees semantic analysis code generation and optimisation
+CSC 465,Machine Learning,supervised learning regression classification clustering model evaluation data preprocessing statistics linear algebra python pandas scikit-learn and neural networks
+DTS 201,Introduction to Data Science,data collection cleaning exploratory data analysis visualisation python pandas and statistics
+DTS 304,Data Management,relational databases sql data warehouses big data and data governance
+AIT 304,Deep Learning,neural networks backpropagation convolutional networks recurrent networks pytorch and gpu training
+AIT 402,Natural Language Processing,text processing language models word embeddings transformers sentiment analysis and machine translation
+ICT 305,Data Communication and Networks,network models tcp ip routing switching error control and network programming
+CYB 201,Introduction to Cybersecurity,threats vulnerabilities cryptography authentication network security and security policy
+STA 111,Descriptive Statistics,data summaries mean median variance probability distributions and charts
+MTH 202,Linear Algebra,vectors matrices determinants eigenvalues eigenvectors and linear transformations

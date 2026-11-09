@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+data/movielens/
+data/downloads/
+figures/
+kaggle.json
+.DS_Store
